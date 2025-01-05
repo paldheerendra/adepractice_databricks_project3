@@ -1,1 +1,1 @@
-# adepractice_databricks
+# adepractice_databricks insurance project. Data transformation is being done in medallion architecture databricks
